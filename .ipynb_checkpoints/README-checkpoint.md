@@ -1,11 +1,11 @@
-# 🧠 AI in Software Engineering 
-
 ## **Group Members**
 1. Gathigi Moses Muiruri - gathimoses@gmail.com
 2. odongo lsaiah - odongoreagan19@gmail.com
 3. Keren Hapuch Ntinyari - karenhapuch68@gmail.com
 4. Jebichii  Joyce - jebichiijoyce@gmail.com
 5. Palpable Smart - palpable237@gmail.com
+   
+# 🧠 AI in Software Engineering 
 
 This repository presents a comprehensive exploration of artificial intelligence in modern software engineering, combining theoretical insights, hands-on implementation, and ethical reflection. The project is divided into three graded parts, each addressing a critical dimension of AI's role in development workflows.
 
